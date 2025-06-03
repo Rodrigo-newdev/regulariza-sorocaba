@@ -1,0 +1,1 @@
+/* App component será preenchido na próxima etapa */

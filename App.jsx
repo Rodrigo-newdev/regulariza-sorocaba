@@ -1,1 +1,1 @@
-/* App component será preenchido na próxima etapa */
+// App.jsx será preenchido a seguir

@@ -1,1 +1,0 @@
-// App.jsx será preenchido a seguir
